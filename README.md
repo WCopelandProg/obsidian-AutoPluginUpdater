@@ -1,10 +1,10 @@
 # Obsidian Plugin Exploration
 
-An early TypeScript learning project based on the official Obsidian sample plugin.
+An early project for learning TypeScript and the Obsidian plugin API, starting from the official sample plugin.
 
-**Current status:** This repository contains the sample plugin scaffold: commands, a modal, settings, and lifecycle examples. Automatic plugin updating is not implemented. The repository name reflects the original idea rather than a completed feature.
+**Where it stands:** The code includes the sample commands, modal, settings, and plugin lifecycle examples. The original idea was to add automatic plugin updates, which explains the repository name. That feature isn’t built yet.
 
-The original template documentation is retained below for setup and API reference.
+The setup instructions and API notes from the original template are below.
 
 ---
 
